@@ -37,7 +37,7 @@ double height = screenSize.getHeight();
         //setLocationRelativeTo(null);
         //setResizable(false);
         setTitle("Fichas Medicas");
-        cargar("");
+        //cargar("");
     }
     private void cargar(String valor){
     	String [] titulos= {"Apellido", "Nombre", "Dirección", "Tel/Cel", "Edad", "Anticuagulado", "DBT", "Aficciones Cardíacas", "Micosis", "Onicocriptosis", "Talón Agrietado", "Hiperqueratosis", "HiperHidrosis", "Edema", "Datos Clínicos", "Otras Patologías", "Tratamiento", "Evolución"};
